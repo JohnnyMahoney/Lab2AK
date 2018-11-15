@@ -3,7 +3,16 @@
 int Calculator::Add (double a, double b)
 {
 <<<<<<< HEAD
+//dima turbo
+//dima turbo
+//dima turbo
+//dima turbo
 
+//dima turbo
+//dima turbo
+//dima turbo
+//dima turbo
+//dima turbos
 	return a + b + 0.5;
 >>>>>>> 4ad40a3 (fix truncation error)
 }
